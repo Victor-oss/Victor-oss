@@ -1,16 +1,9 @@
 ### Seja bem-vindo ao meu github 👋
-
-<!--
-**Victor-oss/Victor-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ##
 <div> 
    <a href = "mailto:victorio.lazaro15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.linkedin.com/in/vict%C3%B3rio-l%C3%A1zaro-rocha-de-morais-94a533153/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-## 
 
 - 👨‍🎓 Tenho 20 anos e curso Engenharia de Software na UnB Campus Gama
 - 🌱 Estou estudando JavaFX, Spring Boot, Python, Java Persistence API
@@ -32,5 +25,4 @@ Here are some ideas to get you started:
   <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50" src="//https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 </div>
